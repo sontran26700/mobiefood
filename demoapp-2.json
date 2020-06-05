@@ -1,0 +1,232 @@
+{
+  "Category": {
+    "01": {
+      "Name": "VietNam",
+      "Image": "https://i.pinimg.com/originals/a5/bf/e8/a5bfe8e5321e89e2281b6447a1846ebc.jpg"
+    },
+    "02": {
+      "Name": "Japan",
+      "Image": "https://image.freepik.com/free-vector/japan-food-logo-vector_22451-86.jpg"
+    },
+    "03": {
+      "Name": "Korea",
+      "Image": "https://previews.123rf.com/images/jianghaistudio/jianghaistudio1701/jianghaistudio170100105/69541572-food-logo-made-from-the-flag-of-south-korea.jpg"
+    },
+    "04": {
+      "Name": "ThaiLand",
+      "Image": "https://previews.123rf.com/images/helenlane/helenlane1808/helenlane180800543/106702589-logo-for-thai-food-restaurantwith-traditional-thai-ornament-pa.jpg"
+    },
+    "05": {
+      "Name": "Lao",
+      "Image": "https://st3.depositphotos.com/3246763/14280/v/1600/depositphotos_142806767-stock-illustration-food-logo-made-from-the.jpg"
+    }
+  },
+  "Foods": {
+    "10": {
+      "Name": "Goi Cuon",
+      "Image": "http://static.asiawebdirect.com/m/.imaging/712x474/website/bangkok/portals/vietnam/homepage/vietnam-top10s/best-vietnamese-food/allParagraphs/00/top10Set/02/image.jpg",
+      "Description": "Goi cuon (Vietnamese fresh spring rolls) consist of thin vermicelli noodles, pork slices, shrimp, basil, and lettuce, all tightly wrapped in translucent banh trang (rice papers). Due to its subtle flavour, goi cuon is usually dipped into ground chillies and a hoisin-based dipping sauce topped with crushed peanuts.",
+      "Price": "40000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "11": {
+      "Name": "Sushi",
+      "Image": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2019/08/cb3c0x-2.jpg",
+      "Description": "Sushi is, without doubt, one of the most famous foods to come from Japan. A dish that was born in ancient times, sushi originated from the process of preserving fish in fermented rice. Today it’s made with vinegared rice and fresh fish, presented in a number of ways and shapes.",
+      "Price": "200000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "12": {
+      "Name": "Tempura",
+      "Image": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2019/08/ed9hap.jpg",
+      "Description": "Tempura is a dish of battered and fried fish, seafood, or vegetables. Special care is given to the way the ingredients are cut as well as to the temperature of the batter (ice cold) and oil (very hot) for deep-frying, so that every piece is a bite of crisply fried perfection.",
+      "Price": "140000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "13": {
+      "Name": "Kaiseki",
+      "Image": "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2019/08/b5xjph.jpg",
+      "Description": "The ultimate in Japanese fine dining, kaiseki is a tasting course comprised of small, seasonally themed dishes crafted with the utmost precision and attention to detail.",
+      "Price": "150000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "14": {
+      "Name": "Udon",
+      "Image": "https://media.cooky.vn/recipe/g4/34197/s/recipe34197-cook-step4-636988696991823953.jpg",
+      "Description": "so yummy",
+      "Price": "80000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "15": {
+      "Name": "Sashimi",
+      "Image": "https://img.theculturetrip.com/1440x/wp-content/uploads/2019/08/jwa467.jpg",
+      "Description": "Centuries before Japanese people were eating sushi, they first enjoyed raw fish without the rice. While the name “sashimi” refers to any thinly sliced raw food, including raw beef (gyuu-sashi), chicken (tori-zashi), and even horse (basashi), fish and seafood are the most popular varieties.",
+      "Price": "170000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "16": {
+      "Name": "Samgyeopsal",
+      "Image": "http://exkoreatour.com/wp-content/uploads/2019/05/samgyeopsal-300x169.png",
+      "Description": "Statistics from various sources, in fact, show that samgyupsal is the most favorite one for most foreign visitors to Korea.While many countries have just a common kind of barbecue or bacon,Korean samgyeopsal is loved very much as it is not greasy and plain when having with various kinds of ssam vegetables, samjang, ssammu, grilled garlic, and kimchi. If you add ‘soju’ to this,you will be able to taste the best.",
+      "Price": "500000",
+      "Discount": "20000",
+      "MenuId": "03"
+    },
+    "17": {
+      "Name": "Bulgogi",
+      "Image": "http://exkoreatour.com/wp-content/uploads/2019/05/bulgogi1-300x169.png",
+      "Description": "Bulgogi is literally ‘fire meat’, which is one of the Korea’s representative foods along with Kimchi. It is sweet and savory.Especially when having it with noodles and bulgogi in wrap vegetables, the combination of the taste is unforgettable.It is a dish that everyone will fall in love regardless of gender or age.",
+      "Price": "300000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "18": {
+      "Name": "Bibimbap",
+      "Image": "http://exkoreatour.com/wp-content/uploads/2019/05/bibimbap1-300x169.png",
+      "Description": "Bibimbap is widely known around the world along with Bulgogi and Kimchi!There is a simple taste and a range of flavors that are inexplicable.As well-being food is catching on in a lot of countries, Korean bibimbap is not missing.Most people like regular bibimbap that is with vegetables only, but it may be worth trying it with a bit more ingredients such as shrimp or even fresh raw beef.",
+      "Price": "100000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "19": {
+      "Name": "Ganjang Chicken",
+      "Image": "http://exkoreatour.com/wp-content/uploads/2019/05/chicken1-300x169.png",
+      "Description": "Fried chicken is not something we call a traditional Korean dish, but other than Korean restaurants, it’s hard to find seasoned chicken or soy sauced chicken in any other areas.",
+      "Price": "150000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "20": {
+      "Name": "Soondubu",
+      "Image": "http://exkoreatour.com/wp-content/uploads/2019/05/soondubu-300x169.png",
+      "Description": "Sundubu is a plain taste. Especially, Americans and Australians tend to love it very much.It is popular among foreigners with its unique taste. Especially among Japanese travelers, Sundubu is enthusiastic enough to eat, so thesedays there are a lot more Sundubu restaurants in Japan.",
+      "Price": "100000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "21": {
+      "Name": "Tom Yam Kung",
+      "Image": "http://thailanct.hcmussh.edu.vn/Resources/Images/SubDomain/thailanct/tom-tum-goong.jpg",
+      "Description": "This Thai masterpiece soup is teeming with shrimp, mushrooms, tomatoes, lemongrass, galangal and kaffir lime leaves. It can be ordered loaded with coconut milk and cream or without for a slightly more sour and healthy version. This soup truly unifies a host of favorite Thai tastes: sour, salty, spicy and sweet, all in one bowl. This is an authentic Thai delicacy that many locals are passionate about and has spread around the world.",
+      "Price": "200000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "22": {
+      "Name": "Pad Thai",
+      "Image": "http://thailanct.hcmussh.edu.vn/Resources/Images/SubDomain/thailanct/padthai.jpg",
+      "Description": "Pad thai is probably the most famous dish outside of Thailand and something that tourists rave and hype about. So famous we almost didn't include it on the list. Medium sized rice noodles are stir fried with a host of ingredients like tofu, peanuts, shrimp, green onions, bean sprouts, garlic, pepper, fish sauce and lime juice. A scrambled egg mixed into the noodles seals the dish together and ensures deliciousness. Pad Thai is great to eat with a squeeze of lime and ground peanuts. Again, a spoon or two of sugar, chili flakes, and vinegar, are always an option by way of condiments.",
+      "Price": "150000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "23": {
+      "Name": "Pad ka Pao",
+      "Image": "http://thailanct.hcmussh.edu.vn/Resources/Images/SubDomain/thailanct/11111111.jpg",
+      "Description": "a local Thai doesn't know what to order, it almost certainly comes down to pad ka pao. A stir fried dish that can be trusted to turn out delicious and satisfying every time and at almost every eatery. Chicken, pork or minced meat is stir fried in oil with garlic, chilies, small green vegetables like green beans and the vibrant basil that gives the dish its flavor. It's fashionable to eat it over a pile of rice accompanied by a fried egg. Neighborhood eateries tend to serve the best pad ka pao, though it's available almost anywhere.",
+      "Price": "220000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "24": {
+      "Name": "Kang Keaw Wan Kai",
+      "Image": "http://thailanct.hcmussh.edu.vn/Resources/Images/SubDomain/thailanct/gree-curry.jpg",
+      "Description": "One of the most famous and sought after Thai dishes is Thai green curry. Green curry paste, coconut milk, bamboo shoots, chicken, Thai basil, Thai eggplant and the ever present herbs and roots of Thai cuisine (lemongrass, galangal, lime leaves etc), make this curry an unforgettable blend of delights. It is usually prepared quite soupy so a plate of rice is necessary to sop up every intricate drop.",
+      "Price": "100000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "25": {
+      "Name": "Som Tam",
+      "Image": "http://thailanct.hcmussh.edu.vn/Resources/Images/SubDomain/thailanct/somtum.jpg",
+      "Description": "Som tom is perhaps Thailand's most famous salad. Garlic and chilies are first pounded with a mortar and pestle (krok). Tamarind juice, fish sauce, peanuts, dried shrimp, tomatoes, lime juice, sugar cane paste, string beans and a handful of grated green papaya are tossed in the krok (som tam thai). The sweet, salty, and spicy flavors paired with the crisp crunch of the green papaya and sticky rice is utterly luscious. Many variations are available including one made with crab (som tam boo) and one made with fermented fish sauce (som tam plah lah).",
+      "Price": "200000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "01": {
+      "Name": "Laap",
+      "Image": "https://migrationology.com/wp-content/uploads/2018/03/best-lao-food-laos.jpg",
+      "Description": "The word Laap actually refers to any meat prepared immediately after butchering. Always fresh, often eaten raw, this dish is a mainstay in the Laos local diet.",
+      "Price": "200000",
+      "Discount": "10000",
+      "MenuId": "05"
+    },
+    "02": {
+      "Name": "Paeng Pet",
+      "Image": "https://photos.smugmug.com/Laos-2018/i-8stPnK4/0/e7260b2e/X3/laos-grilled-duck-4-X3.jpg",
+      "Description": "Fresh blood is a given, and in this duck version, the blood is mixed with some cooked minced duck and organs, and again, heaps of Laos herbs like mint, green onions, and cilantro. They also often add some crispy shallots and peanuts.",
+      "Price": "250000",
+      "Discount": "20000",
+      "MenuId": "05"
+    },
+    "03": {
+      "Name": "Jaew",
+      "Image": "https://photos.smugmug.com/Laos-2018/i-QWqRVjC/0/6fbe5754/X3/Lao-Food-Laos-70-X3.jpg",
+      "Description": "Jaew can refer to any type of dipping sauce, of which Laos has a never ending abundance.These dishes always contain chili peppers, and usually some type of grilled vegetable, giving them a distinct smoky flavor, and sometimes fermented fish. Enjoyed with sticky rice or vegetables, this is one food dear to the heart of Laos cuisine.Made with a mortar and pestle, it’s the pounding action smashing ingredients together that makes the taste so delightfully strong. Full of Laos’ dearly-loved ingredient, the clay-pot fermented fish known as Pa Daek, is umami in the extreme.",
+      "Price": "300000",
+      "Discount": "50000",
+      "MenuId": "05"
+    },
+    "04": {
+      "Name": "Or Lam",
+      "Image": "https://photos.smugmug.com/Laos-2018/i-nRpPHVM/0/282ae210/X3/Lao-Food-Laos-64-X3.jpg",
+      "Description": "Or Lam (but better pronounced as aw lahm) is always prepared using animal fat (usually pork) instead of vegetable. Traditionally including tough yet flavorful buffalo skin, and Mai Sakaan, a magic ingredient that can only be described in English as ‘spicy chili wood.’",
+      "Price": "200000",
+      "Discount": "20000",
+      "MenuId": "05"
+    },
+    "05": {
+      "Name": "Khao Piak Sen",
+      "Image": "https://photos.smugmug.com/Laos-2018/i-VXt4Jwb/0/60c55601/X3/Lao-Food-Laos-52-X3.jpg",
+      "Description": "A great first meal of any full-day Laos food tour, this simple and satisfying bowl of rice noodles can be found on nearly every street corner in Laos.Common throughout both Laos and neighboring Vietnam, there’s a reason why this dish is so iconic among travelers in the region.",
+      "Price": "250000",
+      "Discount": "30000",
+      "MenuId": "05"
+    },
+    "06": {
+      "Name": "Bun dau",
+      "Image": "https://images.foody.vn/res/g90/895779/prof/s576x330/foody-upload-api-foody-mobile-9-190503162104.jpg",
+      "Description": "hot food in VietNam",
+      "Price": "80000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "07": {
+      "Name": "Pho",
+      "Image": "http://static.asiawebdirect.com/m/.imaging/712x474/website/bangkok/portals/vietnam/homepage/vietnam-top10s/best-vietnamese-food/allParagraphs/00/top10Set/0/image.jpg",
+      "Description": "Special food in VietNam",
+      "Price": "100000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "08": {
+      "Name": "Banh mi",
+      "Image": "http://static.asiawebdirect.com/m/.imaging/712x474/website/bangkok/portals/vietnam/homepage/vietnam-top10s/best-vietnamese-food/allParagraphs/00/top10Set/00/image.jpg",
+      "Description": "Banh mi is a unique French-Vietnamese sandwich that’s great for when you’re in need of a quick meal. Priced between VND 10,000 and VND 15,000, it consists of a toasted baguette sandwich, pickled vegetables, pate, butter, soy sauce, cilantro, chillies, and hot peppers.",
+      "Price": "30000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "09": {
+      "Name": "Banh Xeo",
+      "Image": "http://static.asiawebdirect.com/m/.imaging/712x474/website/bangkok/portals/vietnam/homepage/vietnam-top10s/best-vietnamese-food/allParagraphs/00/top10Set/01/image.jpg",
+      "Description": "Similar to a crepe or pancake, banh xeo is made of rice flour, coconut milk, and turmeric, which you can fill it with vermicelli noodles, chicken, pork or beef slices, shrimps, sliced onions, beansprouts, and mushrooms",
+      "Price": "80000",
+      "Discount": "0",
+      "MenuId": "01"
+    }
+  },
+  "User": {
+    "0949409728": {
+      "Name": "Sontran",
+      "Password": "1234"
+    }
+  }
+}
